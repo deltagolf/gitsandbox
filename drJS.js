@@ -207,7 +207,7 @@ function filterById(arr, criteria) {
 		});
 	});
 }
-
+/*
 //Creates a DOM object from an array of objects @perksJson [{delivery=xxx, perkAmount=n, description=abc, perkID=abc, soldItems=n, perkTitle=zzz},...]
 function generatePerks(perksJson, classDef) {
   //Check perksJson is not an empty array
@@ -461,4 +461,4 @@ function generatePerks(perksJson, classDef) {
       .appendTo(perkFooter);
   }
 }
-}
+}*/
