@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pursue a mouse
+=======
+Follow mouse
+>>>>>>> cat
